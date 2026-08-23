@@ -1,2 +1,25 @@
 # Seaforth Plumbing
-HVAC services in Ontario.
+
+> Seaforth Plumbing is a local HVAC company serving Seaforth, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 527-1483  |  Email: contact@seaforthplumbing.ca  |  Website: https://seaforthplumbing.ca
+
+## Key pages
+
+- [Home](https://seaforthplumbing.ca/): Seaforth Plumbing homepage with service overview and FAQ
+- [About](https://seaforthplumbing.ca/about/): About the company and service area
+- [Contact](https://seaforthplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://seaforthplumbing.ca/services/water-heaters/): Water Heaters in Seaforth, Ontario
+- [Drain Cleaning](https://seaforthplumbing.ca/services/drain-cleaning/): Drain Cleaning in Seaforth, Ontario
+- [Repiping](https://seaforthplumbing.ca/services/repiping/): Repiping in Seaforth, Ontario
+- [Fixtures & Toilets](https://seaforthplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Seaforth, Ontario
+- [Leak Detection & Repair](https://seaforthplumbing.ca/services/leak-detection/): Leak Detection & Repair in Seaforth, Ontario
+- [Sump Pumps & Backwater](https://seaforthplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Seaforth, Ontario
+- [Water Softeners & Filtration](https://seaforthplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Seaforth, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Seaforth are answered on the homepage.
